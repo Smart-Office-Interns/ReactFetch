@@ -1,4 +1,4 @@
-# ReactGroceryList
+# ReactFetch
 What does this Project do?
 
 This project takes all users, posts, and comments from https://jsonplaceholder.typicode.com/ and displays them in the table
